@@ -1,0 +1,11 @@
+c:\users\tadriano\source\repos\JWTToken\Console\obj\Debug\netcoreapp2.0\Console.csprojResolveAssemblyReference.cache
+c:\users\tadriano\source\repos\JWTToken\Console\obj\Debug\netcoreapp2.0\Console.csproj.CoreCompileInputs.cache
+c:\users\tadriano\source\repos\JWTToken\Console\obj\Debug\netcoreapp2.0\Console.AssemblyInfoInputs.cache
+c:\users\tadriano\source\repos\JWTToken\Console\obj\Debug\netcoreapp2.0\Console.AssemblyInfo.cs
+c:\users\tadriano\source\repos\JWTToken\Console\bin\Debug\netcoreapp2.0\Console.deps.json
+c:\users\tadriano\source\repos\JWTToken\Console\bin\Debug\netcoreapp2.0\Console.runtimeconfig.json
+c:\users\tadriano\source\repos\JWTToken\Console\bin\Debug\netcoreapp2.0\Console.runtimeconfig.dev.json
+c:\users\tadriano\source\repos\JWTToken\Console\bin\Debug\netcoreapp2.0\Console.dll
+c:\users\tadriano\source\repos\JWTToken\Console\bin\Debug\netcoreapp2.0\Console.pdb
+c:\users\tadriano\source\repos\JWTToken\Console\obj\Debug\netcoreapp2.0\Console.dll
+c:\users\tadriano\source\repos\JWTToken\Console\obj\Debug\netcoreapp2.0\Console.pdb
